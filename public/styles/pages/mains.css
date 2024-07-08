@@ -1,0 +1,35 @@
+@media screen and (min-width: 0px) {
+    .home,
+    .contact,
+    .about,
+    .error {
+        margin: 150px 0 0 0;
+        .aside_barre{
+            height: 100%;
+            width: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            gap: 20px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            z-index: 1;
+            i{
+                color: #000000;
+            }
+            i:first-child, i:last-child {
+                color: #0000FF;
+            }
+        }
+        .main--el{
+            height: 100%;
+            width: 100%;
+            position: relative;
+            .image--main{
+                height: 200px;
+            }
+        }
+    }
+}
