@@ -32,8 +32,9 @@
                 top: 0;
                 right: -100%;
                 transition: .3s ease-in-out;
-                li{
+                a > li{
                     text-transform: uppercase;
+                    color: #000000;
                 }
             }
             .nav--humb.active {

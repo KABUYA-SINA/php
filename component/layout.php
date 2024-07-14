@@ -11,6 +11,8 @@
     <link rel="stylesheet" type='text/css' href="./styles/pages/mains.css">
     <link rel="stylesheet" type='text/css' href="./styles/pages/banner.css">
     <link rel="stylesheet" type='text/css' href="./styles/pages/homelement.css">
+    <link rel="stylesheet" type='text/css' href="./styles/pages/about.css">
+    <link rel="stylesheet" type='text/css' href="./styles/pages/error.css">
     <script src="https://kit.fontawesome.com/9f6d671c04.js" crossorigin="anonymous"></script>
     <title><?= $title ?? "KrisCartel Mode."; ?></title>
 </head>
@@ -28,8 +30,12 @@
                     <span></span>
                 </div>
                 <ul class="nav--humb">
-                    <li>about</li>
-                    <li>contact</li>
+                    <a href="/about">
+                        <li>about</li>
+                    </a>
+                    <a href="/contact">
+                        <li>contact</li>
+                    </a>
                 </ul>
                 <h1>kris cartel.</h1>
                 <i class="fa-solid fa-shop-lock"></i>
