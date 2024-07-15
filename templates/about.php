@@ -17,16 +17,18 @@ $mainClassName = "about";
         Nous nous engageons à proposer des vêtements et des accessoires de haute qualité qui permettent à chacun de se sentir confiant et exceptionnel.
     </p>
     <h3>Nos Valeurs</h3>
-    <ul class="ul-about">
-        <li>
-            <span class="ul-about__li">La créativité : </span>Nous valorisons l'originalité et l'innovation dans chacun de nos designs.
+    <ul class="ul-about ">
+        <li>La créativité :
+            <p>Nous valorisons l'originalité et l'innovation dans chacun de nos designs.</p>
         </li>
-        <li>
-            <span class="ul-about__li">Qualité : </span>Chaque pièce est confectionnée avec soin, en utilisant les meilleurs matériaux pour garantir durabilité et confort.
+        <li>Qualité :
+            <p>Chaque pièce est confectionnée avec soin, en utilisant les meilleurs matériaux pour garantir durabilité et confort.</p>
         </li>
-        <li><span class="ul-about__li">Diversité : </span>Nous croyons en une mode inclusive qui s'adresse à tous, peu importe l'âge, le sexe ou la morphologie.
+        <li>Diversité :
+            <p>Nous croyons en une mode inclusive qui s'adresse à tous, peu importe l'âge, le sexe ou la morphologie.</p>
         </li>
-        <li><span class="ul-about__li">Durabilit : </span>Nous nous engageons à adopter des pratiques respectueuses de l'environnement et à promouvoir une mode durable.
+        <li>Durabilité :
+            <p>Nous nous engageons à adopter des pratiques respectueuses de l'environnement et à promouvoir une mode durable.</p>
         </li>
     </ul>
     <h3>Notre Style</h3>

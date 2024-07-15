@@ -13,6 +13,7 @@
     <link rel="stylesheet" type='text/css' href="./styles/pages/homelement.css">
     <link rel="stylesheet" type='text/css' href="./styles/pages/about.css">
     <link rel="stylesheet" type='text/css' href="./styles/pages/error.css">
+    <link rel="stylesheet" type='text/css' href="./styles/pages/contact.css">
     <script src="https://kit.fontawesome.com/9f6d671c04.js" crossorigin="anonymous"></script>
     <title><?= $title ?? "KrisCartel Mode."; ?></title>
 </head>
