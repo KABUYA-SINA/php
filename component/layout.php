@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -22,7 +22,9 @@
     <div class="container">
         <header class="header">
             <div class="logo">
-                <span> kriscartel</span>
+                <a href="/">
+                    kriscartel
+                </a>
             </div>
             <nav class="nav">
                 <div class="humb">
@@ -43,7 +45,7 @@
             </nav>
         </header>
         <main class="<?= $mainClassName ?? "main"; ?>">
-            <aside class="aside_barre">
+            <aside class="aside-barre">
                 <i class="fa-brands fa-facebook-f"></i>
                 <i class="fa-brands fa-github"></i>
                 <i class="fa-brands fa-linkedin-in"></i>

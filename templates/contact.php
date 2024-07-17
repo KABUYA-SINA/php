@@ -3,7 +3,6 @@ $title = "Contact US";
 $description = "Conatct us with this formulaire";
 $mainClassName = "contact";
 ?>
-<?php require "../public/elements/bannerHome.php" ?>
 <div class="main-contact">
     <h1>Nous Contacter</h1>
     <p class="p-contact">
